@@ -1,10 +1,8 @@
 # Asynchronous Tasks with FastAPI and Celery
 
-Example of how to handle background processes with FastAPI, Celery, and Docker.
+The main aim of this project is to learn how to handle background processes with FastAPI, Celery, and Docker.
+It aims to demonstrate the asynchronous nature of Celery that allows client to serve non-blocking requests from the user even if a computaionally intensive background process is waiting in the queue.
 
-## Want to learn how to build this?
-
-Check out the [post](https://testdriven.io/blog/fastapi-and-celery/).
 
 ## Want to use this project?
 
